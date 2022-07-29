@@ -21,5 +21,14 @@ or manually:
 and add click the plus icon. put the url
 -> push the first changes
 
+created a new branch
+-> right click on master branch -> new branch from master
+-> we called the branch our names-> checkout to new branch
+
+made changes on name branch and then commit
+made more changes on name branch and then commit
+
+oush the local name branch to the origin name branch
+ (the first time we push a new branch, intelliJ offers to create the origin branch
 
 
