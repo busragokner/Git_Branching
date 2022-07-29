@@ -1,0 +1,11 @@
+/Git_Branching.iml
+/.idea/
+*.iml
+out
+
+Create gitignore
+1) right click on project -> new -> file -> .gitignore
+  type the normal file
+2) you select the file/s you want to add to git ignore  -> right click on the files -> git
+-> add to .gitignore
+
